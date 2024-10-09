@@ -81,7 +81,7 @@ const Weatherapitest = () => {
                                 </tr>
                                 <tr style={styles.tableRowEven}>
                                     <td style={styles.tableCell}><strong>Wind Speed:</strong></td>
-                                    <td style={styles.tableCell}>{weatherData.current.wind_kph} kph</td>
+                                    <td style={styles.tableCell}>{weatherData.current.wind_kph} kmph</td>
                                 </tr>
                                 <tr>
                                     <td style={styles.tableCell}><strong>Latitude:</strong></td>
